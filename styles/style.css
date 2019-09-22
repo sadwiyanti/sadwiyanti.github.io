@@ -1,0 +1,100 @@
+/* start body */
+body {
+        background-color: rgb(235, 235, 235);
+        color: rgb(71, 111, 185);
+        font-family: Arial, Helvetica, sans-serif;
+        font-display: 10px;
+        font-size: 15px;
+        line-height: 1.5em;
+        margin-right: 20px;
+        margin-left: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+   
+     }
+/* End body */
+
+/* Start Debug */
+.bg-green {
+    background-color: rgb(121, 255, 255);
+}
+
+.bg-white {
+    background-color: lightblue;
+}
+
+.bg-blue {
+    background-color: dodgerblue;
+}
+
+/* End Debug */
+
+/* Start container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 100%;
+}
+/* End Container */
+
+.facebook {
+    background-color: dodgerblue;
+    width: 100%;
+    height: auto;
+}
+
+.facebook ul li {
+    color: black;
+}
+
+.socialmedia ul li {
+    color: floralwhite;
+}
+
+/* start logo */
+.logo {
+    text-align: center;
+}
+
+/* end logo */
+
+/* start menu primer */ 
+.menu-primer ul {
+    background-color: rgb(187, 187, 187);
+    border-radius: 4px;
+    box-shadow: 
+        0 2px 4px 10px rgba(112, 112, 177, 0.582);
+        0 2px 4px 10px rgba(112, 112, 177, 0.582);
+        0 2px 4px 10px rgba(112, 112, 177, 0.582);
+        0 2px 4px 10px rgba(112, 112, 177, 0.582);
+}
+.menu-primer li {
+    border-right: 6px solid rgb(106, 106, 216);
+    border-block-end-width: 4px; color:gray;
+    display: inline-block;
+    margin: 0px;
+}
+
+.menu-primer a {
+    color:rgb(79, 79, 173);
+    font-display: rgb(151, 146, 146);
+    font-display: rgb(58, 58, 236);
+    font-display: inline-block;
+    font-style: italic;
+    padding: 8px 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+.menu-primer a:hover{
+    background-color: white;
+    color: black;
+    text-decoration: none;
+}
+/* end menu primer */
+.comment{
+    background-color:black;
+}
+.about{
+    color: black;
+}
